@@ -54,6 +54,7 @@
     "veryLarge": "勁大",
     "solid": "實心",
     "hachure": "斜線",
+    "zigzag": "",
     "crossHatch": "交叉格仔",
     "thin": "幼",
     "bold": "粗",
@@ -110,6 +111,7 @@
     "increaseFontSize": "",
     "unbindText": "",
     "bindText": "",
+    "createContainerFromText": "",
     "link": {
       "edit": "",
       "create": "",
@@ -204,7 +206,22 @@
     "cannotResolveCollabServer": "",
     "importLibraryError": "",
     "collabSaveFailed": "",
-    "collabSaveFailed_sizeExceeded": ""
+    "collabSaveFailed_sizeExceeded": "",
+    "brave_measure_text_error": {
+      "start": "",
+      "aggressive_block_fingerprint": "",
+      "setting_enabled": "",
+      "break": "",
+      "text_elements": "",
+      "in_your_drawings": "",
+      "strongly_recommend": "",
+      "steps": "",
+      "how": "",
+      "disable_setting": "",
+      "issue": "",
+      "write": "",
+      "discord": ""
+    }
   },
   "toolBar": {
     "selection": "",
@@ -303,7 +320,8 @@
     "doubleClick": "",
     "drag": "",
     "editor": "",
-    "editSelectedShape": "",
+    "editLineArrowPoints": "",
+    "editText": "",
     "github": "",
     "howto": "",
     "or": "",

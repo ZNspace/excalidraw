@@ -54,6 +54,7 @@
     "veryLarge": "Много голям",
     "solid": "Солиден",
     "hachure": "Хералдика",
+    "zigzag": "",
     "crossHatch": "Двойно-пресечено",
     "thin": "Тънък",
     "bold": "Ясно очертан",
@@ -110,6 +111,7 @@
     "increaseFontSize": "",
     "unbindText": "",
     "bindText": "",
+    "createContainerFromText": "",
     "link": {
       "edit": "",
       "create": "",
@@ -204,7 +206,22 @@
     "cannotResolveCollabServer": "",
     "importLibraryError": "",
     "collabSaveFailed": "",
-    "collabSaveFailed_sizeExceeded": ""
+    "collabSaveFailed_sizeExceeded": "",
+    "brave_measure_text_error": {
+      "start": "",
+      "aggressive_block_fingerprint": "",
+      "setting_enabled": "",
+      "break": "",
+      "text_elements": "",
+      "in_your_drawings": "",
+      "strongly_recommend": "",
+      "steps": "",
+      "how": "",
+      "disable_setting": "",
+      "issue": "",
+      "write": "",
+      "discord": ""
+    }
   },
   "toolBar": {
     "selection": "Селекция",
@@ -303,7 +320,8 @@
     "doubleClick": "",
     "drag": "плъзнете",
     "editor": "Редактор",
-    "editSelectedShape": "",
+    "editLineArrowPoints": "",
+    "editText": "",
     "github": "Намерихте проблем? Изпратете",
     "howto": "Следвайте нашите ръководства",
     "or": "или",
